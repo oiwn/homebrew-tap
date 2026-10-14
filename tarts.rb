@@ -7,9 +7,9 @@ class Tarts < Formula
   homepage "https://github.com/oiwn/tarts"
   license "MIT"
 
-  url "https://github.com/oiwn/tarts/archive/refs/tags/v0.1.25.tar.gz"
-  sha256 "c284aab5ec3a70dba26f60df8a9f00fb836c247a27d367595ad16e7af2c46d41"
-  version "0.1.25"
+  url "https://github.com/oiwn/tarts/archive/refs/tags/v0.1.27.tar.gz"
+  sha256 "1bf483764fa3b3b086ea4325001735dbb6392efabb5257cf19c6491b3b3529df"
+  version "0.1.27"
 
   depends_on "rust" => :build
 
